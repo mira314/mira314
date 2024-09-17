@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Valisoa (vrandria) 
+- 👋 Hi, I’m Valisoa
 - 👀 I’m interested  data and storage
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on ... N/A
 - 📫 How to reach me : do you really need me? please contact me via email mirado.valisoa@gmail.com
-- 😄 nickname : Valet
+- 😄 nickname : vrandria
 - ⚡ Fun fact: The first alarm clock only rings at 4 a.m.
 
 <!---
