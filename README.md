@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mira314 
+- 👋 Hi, I’m Valisoa (vrandria) 
 - 👀 I’m interested  data and storage
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on ... N/A
